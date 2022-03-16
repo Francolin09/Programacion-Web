@@ -1,0 +1,21 @@
+img {
+    width: 500px;
+}
+
+li {
+    width: 130px;
+}
+
+.abajo {
+    height: 263px;
+    background-color: aqua;
+}
+
+.card-body {
+    height: 265px;
+    background-color: blueviolet;
+}
+
+#pol {
+    margin-bottom: 0rem !important;
+}
