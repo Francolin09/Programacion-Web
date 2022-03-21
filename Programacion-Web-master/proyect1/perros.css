@@ -1,0 +1,46 @@
+header {
+    text-align: center;
+    padding-top: 30px;
+    background-color: cornflowerblue;
+}
+
+h4 {
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 0px !important;
+    padding-bottom: 50px;
+}
+
+.nav-item {
+    padding-right: 30px;
+}
+
+.fotosgatos1 {
+    padding-bottom: 40px;
+    padding-right: 800px;
+}
+
+.fotosgatos2 {
+    padding-bottom: 40px;
+    padding-right: 800px;
+}
+
+.fotosgatos3 {
+    padding-right: 800px;
+}
+
+.gatitos {
+    text-align: center;
+    background-color: darkcyan;
+    padding-top: 50px;
+}
+
+.linkgato {
+    padding-left: 100px;
+    color: black !important;
+}
+
+img {
+    width: 275px;
+    height: 183px;
+}

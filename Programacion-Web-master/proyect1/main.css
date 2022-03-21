@@ -1,0 +1,67 @@
+* {
+    width: 100%
+}
+
+li {
+    margin-right: 150px;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+}
+
+.presentacion {
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.Integrantes {
+    text-align: center;
+    padding-bottom: 90px;
+    background-color: crimson;
+}
+
+.Ayuda {
+    padding-left: 50px;
+}
+
+.textoayuda {
+    text-align: center;
+    margin-bottom: 75px;
+    padding-top: 35px;
+}
+
+#Perrito {
+    margin-bottom: 30px;
+}
+
+.textointegrantes {
+    margin-bottom: 75px;
+    padding-top: 35px;
+}
+
+.presentacion {
+    background-color: cornflowerblue;
+}
+
+.Ayuda {
+    background-color: cornflowerblue;
+}
+
+.textopresentacion {
+    margin-bottom: 0px;
+    padding-bottom: 175px;
+    padding-top: 74px;
+}
+
+.lista {
+    margin-right: 0px;
+    text-align: center;
+    padding-left: 594px;
+}
+
+li {
+    width: 200px;
+    text-align: center;
+}
