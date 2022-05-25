@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>plantila con parametros</title>
+   
+</head>
+<body>
+    <h1>Nombre:{{nombrecito}}</h1>
+    <ul>
+        {% for leng in lenguajes %} <!---leng es la variable que se ocupa para recorrer el arreglo, es la clasica i-->
+        <li> { {leng} } </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
